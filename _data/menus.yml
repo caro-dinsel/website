@@ -1,0 +1,27 @@
+main:
+  - name: "Startseite"
+    url: "/"
+    weight: 2
+  - name: "Organisationen"
+    url: "/services/"
+    weight: 2
+  - name: "Privatpersonen"
+    url: "/privatpersonen/"
+    weight: 3
+  - name: "Über mich"
+    url: "/about/"
+    weight: 4
+  - name: "Kontakt"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Startseite"
+    url: "/"
+    weight: 1
+  - name: "Kontakt"
+    url: "/contact/"
+    weight: 2
+  - name: "Impressum"
+    url: "/impressum/"
+    weight: 3
