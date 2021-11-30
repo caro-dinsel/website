@@ -19,5 +19,5 @@ intro_image_hide_on_mobile: true
 - Gender Diversity in pädagischen Kontexten: Trans Kinder, Inter\* Schüler:innen sind zunehmend im Schulkontext angekommen. Doch welche Handlungsspielräume haben Sie? Was verbirgt sich hinter den Lebensrealitäten von *Schüler:innen* un wir können sie im pädagogischen Alltag einbezogen werden?
 - Kommunikationstraining: eine wertschätzende Kommunikation im Team und ein konstruktives Gespräch auch über Konfliktthemen kann hier geübt werden
 - Ikea im Kopf: Schubladendenken reflektieren und einen Zugang zu Diversitydimensionen über die eigenen Zugehörigkeiten entdecken
-- Unconscious Bias-Training: Beobachtungsschulungen, um Ihr Recruitingteam noch besser zu machen und ein kultur- und genderfaires Auswahlverfahren für Ihre Mitarbeitenden (von heute und morgen) zu gewährleisten 
+- Unconscious Bias-Training: Beobachtungsschulungen, um Ihr Recruitingteam noch besser zu machen und ein kultur- und genderfaires Auswahlverfahren für Ihre Mitarbeitenden (von heute und morgen) zu gewährleisten hanf
 
