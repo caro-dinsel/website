@@ -1,12 +1,11 @@
 ---
-title: Services
-layout: services
-description: Services
-intro_image_absolute: false
-intro_image_hide_on_mobile: true
+title: Mein Angebot für Organisationen
+layout: page
+description: Leistungen für Organisationen
 ---
 
-# Mein Angebot für Organisationen
+Hier könnte man 2 Sätze Einleitung hinpacken.
+
 
 ## Beratung:
 

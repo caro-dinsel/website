@@ -6,7 +6,10 @@ description: Kontakt
 
 Ich freue mich über eine unverbindliche Anfrage. Lassen Sie uns ins Gespräch kommen.
 
-<form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
+
+
+
+<!-- <form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
   <input type="email" name="email" placeholder="Ihre Email">
   <br>
   <br>
@@ -15,4 +18,4 @@ Ich freue mich über eine unverbindliche Anfrage. Lassen Sie uns ins Gespräch k
   <br>
   <br>
   <button type="submit">Nachricht abschicken</button>
-</form>
+</form> -->

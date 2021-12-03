@@ -1,20 +1,22 @@
 [
   {
     "title": "Für Organisationen",
-    "description": "Hier Kurztext zum Angebot für Organisationen",
+    "description": "Hier kommt ein Kurztext zum Angebot für Organisationen.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
       "height": 80
-    }
+    },
+    "link":"/organisationen"
   },
   {
     "title": "Für Privatpersonen",
-    "description": "Hier Kurtext zum Angebot für Privatpersonen.",
+    "description": "Hier kommt ein Kurztext zum Angebot für Privatpersonen.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
       "height": 80
-    }
+    },
+    "link":"/privatpersonen"
   }
 ]
