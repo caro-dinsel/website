@@ -12,4 +12,4 @@ Meine Weiterbildungen in Organisations- und Gruppendynamik unterstützen meinen 
 Während der Pandemie habe ich 2020 eine Ausbildung als Yogalehrer:in abgeschlossen, die insbesondere für mein Stressbewältigungstraining eine große Bereicherung darstellt.  
 
 
-<img src="/images/profilbild.png" alt="drawing" width="400"/>
+<img src="/website/images/profilbild.png" alt="drawing" width="400"/>
