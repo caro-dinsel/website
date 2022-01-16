@@ -11,7 +11,9 @@ Ich arbeite systemisch, zielorientiert, strategisch und diversitysensibel. Als n
 Meine Weiterbildungen in Organisations- und Gruppendynamik unterstützen meinen systemischen Blick und betrachten Führungskräfte, Beschäftigte und Einzelpersonen klein und groß ganzheitlich.
 Während der Pandemie habe ich 2020 eine Ausbildung als Yogalehrer:in abgeschlossen, die insbesondere für mein Stressbewältigungstraining eine große Bereicherung für Sie darstellen wird.
 
-Meine berufliche Erfahrung reicht von einer internationalen Organisation, einer Management-Beratung und mehreren Öffentlichen Diensten.
+Meine berufliche Erfahrung reicht von einer internationalen Organisation, einer Management-Beratung und mehreren Jahren Tätigkeit in Institutionen des Öffentlichen Dienstes. Darüber hinaus habe ich mehrere Jahre als Tutor:in in den Bereichen Change Management, Führungspsychologie und Consulting gearbeitet.
+
+Als Trainer:in war ich jahrelang für eine Studenteninitiative tätig bevor ich zu verschiedenen Themen innerhalb von Organisationen Workshops, Seminare und Moderationen durchgeführt sowie Projekte mit Diversity-Schwerpunkten geleitet habe. Wichtig war und ist mir in meiner Arbeit Augenöhe, Intersektionalität und eine aufgeschlossene Fehlerkultur.
 
 
 <img src="/website/images/profilbild.png" alt="drawing" width="400"/>
