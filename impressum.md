@@ -4,4 +4,7 @@ layout: page
 description: Impressum
 ---
 
-Hier kommt das Impressum hin.
+Caroline Dinsel
+Caroline.Dinsel@gmail.com
+
+13347 Berlin
