@@ -8,7 +8,7 @@ Diversity ist mir eine Herzensangelegenheit und die Anforderungen in jedem Auftr
 Ob sich Ihre Schule in Sachen gender diversity auf den Weg machen will, ein trans Kind als Schüler:in hat oder Sie im Unternehmen als queeres Netzwerk oder Diversity Management einen Sensibilisierungs-Workshop machen wollen: Lassen Sie uns die möglichen Inhalte besprechen und die Beratung oder den Workshop genau auf Ihre Bedürfnisse anpassen.
 
 
-Ich freue mich über eine unverbindliche Anfrage. Lassen Sie uns gern ins Gespräch kommen.
+Ich freue mich auf Ihr Anliegen und über eine unverbindliche Anfrage. Lassen Sie uns gern ins Gespräch kommen.
 
 Sie erreichen mich unter
 
