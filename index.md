@@ -8,6 +8,10 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# Systematische Supervision und Coaching
+# Diversity Consulting und Trainings
 
-Willkommen auf der Coaching Website von Caro Dinsel. Hier kommen 1 - 2 Sätze Einleitungstext hin.
+Willkommen auf der meiner Website. 
+
+Diversity wird als Querschnittsaufgabe im gesamten Employee Lifecircle immer relevanter für alle Organisationen. Diversity ist komplex und muss intersektional gedacht, gelebt und beraten werden.
+
+Vielfalt findet organisational und individuell statt. So differenzeiere ich auch meine Angebote: Für Organisationen biete ich Beratung und zugeschnittene Workshopformate an. Für einzelne Menschen biete ich offene Seminare an und individuelles Coaching.
