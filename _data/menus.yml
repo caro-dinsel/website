@@ -11,9 +11,12 @@ main:
   - name: "Über mich"
     url: "/uebermich/"
     weight: 4
+  - name: "Referenzen"
+    url: "/referenzen/"
+    weight: 5
   - name: "Kontakt"
     url: "/kontakt/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Startseite"
