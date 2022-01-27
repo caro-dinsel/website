@@ -1,7 +1,7 @@
 ---
-title: Caroline Dinsel
+title: Caro* Dinsel
 layout: home
-description: Website of Caroline Dinsel
+description: Website of Caro* Dinsel
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
