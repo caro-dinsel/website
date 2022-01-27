@@ -15,5 +15,7 @@ Meine berufliche Erfahrung reicht von einer internationalen Organisation, einer 
 
 Als Trainer:in war ich jahrelang für eine Studenteninitiative tätig bevor ich zu verschiedenen Themen innerhalb von Organisationen Workshops, Seminare und Moderationen durchgeführt sowie Projekte mit Diversity-Schwerpunkten geleitet habe. Wichtig war und ist mir in meiner Arbeit Augenöhe, Intersektionalität und eine aufgeschlossene Fehlerkultur.
 
-
-<img src="/website/images/profilbild.png" alt="drawing" width="400"/>
+<figure>
+<img src="/website/images/profilbild.png" alt="Bild von Caroline Dinsel" width="400"/>
+<figcaption style="font-size:16px;color: #5c5a5a;">Bildunterschrift</figcaption>
+</figure>
