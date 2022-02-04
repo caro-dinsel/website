@@ -17,5 +17,5 @@ Mit meiner Angebot möchte ich besonders Organisationen des Öffentlichen Dienst
 Diversity ist komplex und muss intersektional gedacht, gelebt und beraten werden.
 
 Vielfalt findet organisational und individuell statt. So differenziere ich daher meine Angebote: 
-## Für Organisationen biete ich Beratung und zugeschnittene Workshopformate an. 
-## Für einzelne Menschen biete ich offene Seminare an und individuelles Coaching.
+Für Organisationen biete ich Beratung und zugeschnittene Workshopformate an. 
+Für einzelne Menschen biete ich offene Seminare an und individuelles Coaching.
