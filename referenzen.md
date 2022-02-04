@@ -9,7 +9,7 @@ bodyClass: page-about
 
 
  ### Teilnehmerin
-Tolle und kurzweilige Fortbildung!
+ Tolle und kurzweilige Fortbildung!
 Fachlich fundiert hat sie zur Horizonterweiterung beigetragen und
 neue Synapsenverbindungen geschaffen. Viele Schubladen wurden
 aufgemacht und Anregungen zur Neusortierung gegeben. Es wirkt noch nach...
