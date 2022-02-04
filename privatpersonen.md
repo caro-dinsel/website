@@ -12,11 +12,5 @@ Unsere Welt wird immer leistungsoptimierter und die Arbeitsdichte immer größer
 ## Resilienztraining: 
 Gerade während der Corona-Krise, unter hohem Stresslevel teilweise mit großen Homeoffice-Anteilen oder eben gerade ohne, sollten wir auf unsere Kraftquellen achten. Eine der wichtigsten Kraftquelle sind wir selbst. Unsere psychische Widerstandsfähigkeit nimmt hierbei eine Schlüsselrolle ein. Lassen Sie uns in diesem eintägigen Seminar grundlegende Kenntnisse und Ihr eigenes Resilienzbarometer und widmen Sie sich etwas Zeit und Reflektion.
 
-
 ## Coaching/Einzelberatung:
 Melden Sie sich gern mit Ihrem individuellen Thema.
-
-
-## trans-sensible Yogagruppe: 
-Ich möchte gern eine Gruppe im Online-Format starten, die die Geschlechteridentität und körperlichen Besonderheiten von trans, inter und queeren Menschen berücksichtigt und freue mich, wenn sich genug Menschen melden, um einen gemeinsamen Starttermin zu finden. Offen für Einsteiger:innen.
-
