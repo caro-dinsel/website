@@ -24,6 +24,10 @@ Einer dieser Höhepunkte waren die Fallberichte und  Videobeispiele, da man hie
 ### Karina L- (Teilnehmerin)
 Referenz
 
+## Führungskräfte-Seminar "Sexualiserte Gewalt am Arbeitsplatz"
+
+### Teilnehmer
+Referenz
 
 ## Beratung zur Gestaltung einer Konferenz "TransVisible" des Bundesverband Trans
 
