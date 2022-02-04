@@ -8,14 +8,6 @@ Diversity wird als Querschnittsaufgabe im gesamten Employee Lifecircle für ganz
 
 Der Umgang mit Mitarbeitenden, Kund:innen und Schüler:innen verbessert sich ebenfalls mit mehr Toleranz und Wissen um Vielfaltsdimensionen.
 
-
-## Consulting:
-
-- diversity-sensibles Kulturberatung: Sie wollen Ihre diverser werden? Befragen Sie die Fokusgruppe, die schon im Unternehmen ist, um mehr über Ihre Top-Fachkräfte zu erfahren. Ich arbeite diversity-sensibel, da Kommunikationskanäle und Personaentwicklung auch neue Zielgruppen erschließen kann. Ihr Team, Ihr Unternehmen kann dabei nur gewinnen.
-
-- Aufbau und strategische Ausrichtung des Diversity&Inclusion-Bereichs in Ihrem Unternehmen
-
-
 ## Trainings:
 
 ### Gender Diversity in pädagischen Kontexten
@@ -29,4 +21,12 @@ Schubladendenken reflektieren und einen Zugang zu Diversitydimensionen über die
 
 ### Unconscious Bias-Training
 Beobachtungsschulungen, um Ihr Recruitingteam noch besser zu machen und ein kultur- und genderfaires Auswahlverfahren für Ihre Mitarbeitenden (von heute und morgen) zu gewährleisten.
+
+
+## Consulting:
+
+### diversity-sensibles Kulturberatung
+Sie wollen Ihre diverser werden? Befragen Sie die Fokusgruppe, die schon im Unternehmen ist, um mehr über Ihre Top-Fachkräfte zu erfahren. Ich arbeite diversity-sensibel, da Kommunikationskanäle und Personaentwicklung auch neue Zielgruppen erschließen kann. Ihr Team, Ihr Unternehmen kann dabei nur gewinnen.
+
+### Aufbau und strategische Ausrichtung des Diversity&Inclusion-Bereichs in Ihrem Unternehmen
 
