@@ -8,6 +8,7 @@ promoted: true
 weight: 1
 ---
 
-Hier kommt eine kleine Kurzbeschreibung über Caro hin.
+"Where some see barriers other see opportunities"(Elaine Sparlin). 
+Ich berate ich Sie gern bei Ihrem nächsten Perspektivwechsel.
 
 [Erfahre hier mehr über mich](/website/uebermich/)
