@@ -5,14 +5,14 @@ description: Kontakt
 ---
 
 Diversity ist mir eine Herzensangelegenheit und die Anforderungen in jedem Auftrag sind unterschiedlich.
-Ob sich Ihre Schule in Sachen gender diversity auf den Weg machen will, ein trans Kind als Schüler:in hat oder Sie im Unternehmen als queeres Netzwerk oder Diversity Management einen Sensibilisierungs-Workshop machen wollen: Lassen Sie uns die möglichen Inhalte besprechen und die Beratung oder den Workshop genau auf Ihre Bedürfnisse anpassen.
+Ob Sie im Unternehmen als queeres Netzwerk installieren, das Diversity Management aufbauen oder beraten lassen oder einen Sensibilisierungs-Workshop machen wollen. Meine bisherigen Workshops waren jeweils sehr angepasst auf die Bedürfnisse meiner Kund:innen. Vom Gender Sensibilisierungsworkshop für Lehrkräfte oder Beratung zum Umgang mit trans Nachwuchskräften im Unternehmen - Lassen Sie uns die möglichen Inhalte besprechen und die Beratung oder den Workshop genau auf Ihre Bedürfnisse anpassen.
 
 
 Ich freue mich auf Ihr Anliegen und über eine unverbindliche Anfrage. Lassen Sie uns gern ins Gespräch kommen.
 
 Sie erreichen mich unter
 
-+491771441739 oder Caroline.Dinsel@gmail.com
++491771441739 oder Caro.Dinsel@gmail.com
 
 
 
