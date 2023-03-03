@@ -8,7 +8,7 @@ bodyClass: page-about
 Mein Name ist Caro* Dinsel. Als Psycholog:in habe ich im Schwerpunkt Arbeits-, Ingenieurs- und Organisationspsychologie studiert und habe so sowohl die Menschen als auch deren Umfeld sowohl privat als auch organisational im Fokus.
 
 Ich arbeite systemisch, zielorientiert, strategisch und diversitysensibel. Als nicht-binäre Kommunikations- und Verhaltens-Trainer:in habe ich viel Erfahrung in verschiedensten Workshop-Konstellationen und Kontexten.
-Meine Weiterbildungen in Organisations- und Gruppendynamik unterstützen meinen systemischen Blick und betrachten Führungskräfte, Beschäftigte und Einzelpersonen klein und groß ganzheitlich.
+Meine Weiterbildungen in Organisations- und Gruppendynamik und systemischer Führung unterstützen meinen ganzheitlichen Blick und betrachten Führungskräfte, Beschäftigte und Einzelpersonen multidimensional.
 Während der Pandemie habe ich 2020 eine Ausbildung als Yogalehrer:in abgeschlossen, die insbesondere für mein Stressbewältigungstraining eine große Bereicherung für Sie darstellen wird.
 
 Meine berufliche Erfahrung reicht von einer internationalen Organisation, einer Management-Beratung und mehreren Jahren Tätigkeit in Institutionen des Öffentlichen Dienstes. Darüber hinaus habe ich mehrere Jahre als Tutor:in in den Bereichen Change Management, Führungspsychologie und Consulting gearbeitet.
